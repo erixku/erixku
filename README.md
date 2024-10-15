@@ -32,3 +32,6 @@
   <a href="https://www.instagram.com/erixkola/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-gomes-barbosa/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
 </div>
+
+##
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5aqndln6t7rz7e7ialgubxc7a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c5aqndln6t7rz7e7ialgubxc7a&redirect=true)
