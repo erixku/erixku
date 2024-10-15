@@ -5,7 +5,7 @@
 📫 Contate-me no [Linkedin](https://linkedin.com/in/erick-gomes-barbosa)<br>
 😄 Pronomes: ele/dele<br>
 
-<div>
+<div align="center">
   <a href="https://github.com/erixku"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=erixku&show_icons=true&theme=dark&title_color=c7b0ff&text_color=c7b0ff&icon_color=c7b0ff&hide_border=true&locale=pt-br&custom_title=Estatísticas&hide=issues&bg_color=0,873b80,483286,374e86"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erixku&locale=pt-br&theme=dark&hide_border=true&title_color=c7b0ff&layout=compact&text_color=c7b0ff&hide_progress=true&langs_count=5&bg_color=0,374e86,483286,873b80"/>
