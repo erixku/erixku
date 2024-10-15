@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/erixku"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=erixku&show_icons=true&theme=transparent&title_color=745bf0&text_color=9e8df0&icon_color=5356db&hide_border=true&locale=pt-br&custom_title=Estatísticas&hide=issues"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erixku&locale=pt-br&theme=transparent&hide_border=true&title_color=745bf0&layout=compact&text_color=9e8df0&hide_progress=true&langs_count=5"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=erixku&show_icons=true&theme=dark&title_color=c7b0ff&text_color=c7b0ff&icon_color=c7b0ff&hide_border=true&locale=pt-br&custom_title=Estatísticas&hide=issues&bg_color=0,873b80,483286,374e86"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erixku&locale=pt-br&theme=dark&hide_border=true&title_color=c7b0ff&layout=compact&text_color=c7b0ff&hide_progress=true&langs_count=5&bg_color=0,374e86,483286,873b80"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
