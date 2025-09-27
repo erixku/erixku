@@ -1,9 +1,9 @@
-## Olá, eu sou o Erick Gomes Barbosa 👋
+## Olá, eu sou o Erick Gomes Barbosa
 
-🔭 Atualmente estou trabalhando com front-end em React Native.<br>
-🌱 Estou aprendendo a linguagem de programação TypeScript.<br>
-📫 Contate-me no [Linkedin](https://linkedin.com/in/erick-gomes-barbosa)<br>
-😄 Pronomes: ele/dele<br>
+- Atualmente estou trabalhando com front-end em React Native.<br>
+- Estou aprendendo a linguagem de programação TypeScript.<br>
+- Contate-me no [Linkedin](https://linkedin.com/in/erick-gomes-barbosa)<br>
+- Pronomes: ele/dele<br>
 
 <div align="center">
   <a href="https://github.com/erixku"/>
